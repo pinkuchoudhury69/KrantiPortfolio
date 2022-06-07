@@ -1,4 +1,4 @@
-# KrantiPortfolio
+# Kranti's Portfolio
 
 This is my personal portfolio that I have created to get a dream job.
 
